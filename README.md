@@ -1,5 +1,7 @@
-<<<<<<< HEAD
 # Discuss
+
+Elixir and Phoenix Bootcamp - Udemy
+
 
 To start your Phoenix server:
 
@@ -19,7 +21,4 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
-=======
-# discuss
-Elixir and Phoenix Bootcamp - Udemy
->>>>>>> cfd2d04443647364f964b2a880684468e1e31575
+
