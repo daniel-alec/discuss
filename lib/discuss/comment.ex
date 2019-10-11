@@ -10,7 +10,7 @@ defmodule Discuss.Comment do
     timestamps()
   end
 
-  def changset(struct, params \\ %{}) do
+  def changeset(struct, params \\ %{}) do
     struct
     |> cast(params, [:content])
     |> validate_required([:content])
